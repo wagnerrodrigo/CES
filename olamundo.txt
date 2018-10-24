@@ -1,0 +1,8 @@
+# informações sobre o arquivo readme
+- O arquivo Readme.md é renderizado no repositório git serve como uma carta de apresentação
+- O Markdown e uma forma simplificada de escrever HTML muito utilizado em blog e posts de desenvolvedores
+- O Medium utiliza o markdown 
+
+final
+
+neste momento estou utilizando o branch hotfix
